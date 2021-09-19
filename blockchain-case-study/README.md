@@ -8,7 +8,7 @@ As described in the primary README at the "top" of this repository (found [here]
 
 ![Oops, image not available.](./Images/RECUR-logo.png "RECUR Logo")
 
-The subject of this briefcase study is a US-based company called RECUR.  One could strictly say they are still in their startup phase and not fully operational, however, one of their first projects is to be released in the lead up to Christmas 2021, if not sooner.
+The subject of this brief case study is a US-based company called RECUR.  One could strictly say they are still in their startup phase and not fully operational, however, one of their first projects is to be released in the lead up to Christmas 2021, if not sooner.
 
 ## Who is RECUR?
 
@@ -36,7 +36,7 @@ NFT use-cases are fairly fixed, but then also still open to new possibilities.  
 
 Theoretically, the NFT market will explode, assuming this platform proves successful that is, for one primary reason which is that the focus on recurring revenue and royalties for original content as well as the revenue remaining decentralised, is the key.
 
-A potential detractor for what RECUR's platform will provide, is for many networks/platforms who are in competition with each other, all jostling for position to "be the best NFT chain", could mean that having NFTs not tied to one chain, would mean that chain would need to continue growing on its own merits or risk becoming unpopular and thus losing market share.  A case in point is the current debate (2021) between whether Solana or Ethereum or Binance Smartchain will end up being "the one".  
+A potential detractor for what RECUR's platform will provide, is for many networks/platforms who are in competition with each other, all jostling for position to "be the best NFT chain", could mean that having NFTs not tied to one chain, would mean that chain would need to continue growing on its own merits or risk becoming unpopular and thus losing market share.  A case in point is the current debate (2021) between whether Solana or Ethereum or Binance Smartchain or Polygon will end up being "the one to rule them all".
 
 On the flip side though, with a platform that is chain-agnostic, the goal is to create mass-attraction and thus by RECUR creating openness, will create a landscape which is attractive for all and not benefitting one platform/chain/project over another.
 
