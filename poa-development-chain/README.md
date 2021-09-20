@@ -140,24 +140,27 @@ Another prompt will open up and require the password to the keystore.  Again, th
 
 ![Oops, image not available](./Screenshots/nyxnet-connect-wallet-3.png "Type in Password")  
 
-Your Wallet will now be connected to the Node 1 address.  As can be seen, the address matches that of the config (as shown above) and you will be able to send a test transaction to the address of Node 2 next.
+Your Wallet will now be connected to the Node 1 address.  As can be seen (check below), the address matches that of the config (as shown above) and you will be able to send a test transaction to the address of Node 2 next.
 
 ### Send test transaction!!
 
-X
+Now that you have the wallet open and connected with the source address (that of Node 1), use the public address of Node 2 (see security config above, starting with 0x3E8D...) in the "To" address, and pay any amount of ETH you wish and then don't worry about the transaction fee(s) ... that is simply par for the course.
 
-![Oops, image not available](./Screenshots/nyxnet-send-txn-1.png "Type in Password")  
+Click Send!
 
-X  
+![Oops, image not available](./Screenshots/nyxnet-send-txn-1.png "Test transaction ready to go")  
 
-![Oops, image not available](./Screenshots/nyxnet-send-txn-2.png "Type in Password")  
+Once the transaction has been sent, you will see the transaction identifier, and using MyCrypto you'll have the status available for to view.
 
-X  
+If you are so inclined, open up the session where you started Node 1, and you'll see the transaction as well as the address it was sent to, available to view.  Notice below, how MyCrypto and the logs match!
 
-![Oops, image not available](./Screenshots/nyxnet-send-txn-3.png "Type in Password")  
+![Oops, image not available](./Screenshots/nyxnet-send-txn-2.png "Matching MyCrypto to logs")  
 
-X  
+You will need to wait a number of seconds for the transaction to move from PENDING to SUCCESSFUL.  Click "Check TX Status" to check again.
 
+![Oops, image not available](./Screenshots/nyxnet-send-txn-3.png "Successful Transaction!")  
+
+Yay!!  Some ETH has been sent and confirmed on the chain!
 
 ### Hooray, you're done!
 
