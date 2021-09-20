@@ -112,7 +112,7 @@ In order to connect your wallet to the custom network (or node), start it up and
 
 ![Oops, image not available](./Screenshots/nyxnet-create-net-1.png "Add custom node")  
 
-You'll see the following pop-up for setting up the configuration.  Populate all as is seen in this example, paying specific attention to the Network being `Custom`, the Chain ID being `778` and the URL being `http://127.0.0.1:8545` noting that it is not http**s**, then click `Save & Use Custom Node`.
+You'll see the following pop-up for setting up the configuration.  Populate all as is seen in this example, paying specific attention to the Network being `Custom`, the Chain ID being `778` and the URL being `http://127.0.0.1:8545` noting that it is http (not http**s**), then click `Save & Use Custom Node`.
 
 ![Oops, image not available](./Screenshots/nyxnet-create-net-2.png "Creating custom node/network")  
 

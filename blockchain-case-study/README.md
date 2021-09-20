@@ -6,7 +6,7 @@ As described in the primary README at the "top" of this repository (found [here]
 
 ## RECUR - Bridging the NFT Divide
 
-![Oops, image not available.](./Images/RECUR-logo.png "RECUR Logo")
+![Oops, image not available.](./Images/Recur-logo.png "RECUR Logo")
 
 The subject of this brief case study is a US-based company called RECUR.  One could strictly say they are still in their startup phase and not fully operational, however, one of their first projects is to be released in the lead up to Christmas 2021, if not sooner.
 
